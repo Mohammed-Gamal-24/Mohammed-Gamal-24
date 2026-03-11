@@ -29,7 +29,6 @@
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
 </p>
 
@@ -45,8 +44,8 @@
 
 ## 🔗 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Mohammed-Gamal-24
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/Mohammed-Gamal-24)
+⭐ From [Mohammed Gamal](https://github.com/Mohammed-Gamal-24)
