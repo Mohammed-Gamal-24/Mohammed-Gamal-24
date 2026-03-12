@@ -25,6 +25,15 @@
 
 ---
 
+## 🛠 Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Gamal-24&show_icons=true&theme=tokyonight)
