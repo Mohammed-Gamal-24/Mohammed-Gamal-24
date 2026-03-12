@@ -34,14 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Gamal-24&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Gamal-24&layout=compact&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/mohammed-gamal-648b46157/
 
