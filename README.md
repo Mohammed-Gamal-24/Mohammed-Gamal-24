@@ -37,8 +37,6 @@
 ## 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/mohammed-gamal-648b46157/
 
-- GitHub: https://github.com/Mohammed-Gamal-24
-
 ---
 
 ⭐ From [Mohammed Gamal](https://github.com/Mohammed-Gamal-24)
